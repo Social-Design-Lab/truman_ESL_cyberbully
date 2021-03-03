@@ -60,7 +60,7 @@
     "passport-openid": "^0.4.0",
     "passport-twitter": "^1.0.4",
     "paypal-rest-sdk": "^1.7.1",
-    "pug": "^2.0.0-rc.2",
+    "pug": "^3.0.1",
     "request": "^2.81.0",
     "semantic-ui": "^2.2.11",
     "stripe": "^4.23.1",
