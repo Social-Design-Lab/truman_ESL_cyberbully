@@ -69,7 +69,7 @@
     "twit": "^2.2.9",
     "ua-parser-js": "^0.7.14",
     "useragent": "^2.2.1",
-    "validator": "^7.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
