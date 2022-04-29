@@ -15,7 +15,7 @@
     "postinstall": "npm rebuild node-sass"
   },
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "bcrypt-nodejs": "0.0.3",
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.2",
